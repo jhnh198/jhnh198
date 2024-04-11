@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 --------------------------
 
-Currently seeking a dev role in web apps. Bachelors in Science, Computer Science.
+Application Support Specialist. Learning Web Application Development using React and Next.js. Bachelors in Science, Computer Science.
 
 * 🌍  I'm based in Greater Milwaukee, WI
 * 🖥️  See my portfolio at [My Portfolio](http://john-portfolio-ec8953.netlify.app/)
