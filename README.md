@@ -3,10 +3,10 @@ Web Developer
 
 Application Support Specialist. Learning Web Application Development using React and Next.js. Bachelors in Science, Computer Science.
 
-* 🌍  I'm based in Greater Milwaukee, WI
-* 🖥️  See my portfolio at [My Portfolio](http://john-portfolio-ec8953.netlify.app/)
-* ✉️  You can contact me at [jhnh198@gmail.com](mailto:jhnh198@gmail.com)
-* 🤝  I'm open to collaborating on Language learning, AI, game dev
+* 🌍  Greater Milwaukee, WI, USA
+* 🖥️   [My Portfolio](http://john-portfolio-ec8953.netlify.app/)
+* ✉️  Contact me [jhnh198@gmail.com](mailto:jhnh198@gmail.com)
+* 🤝  Open to collaborating on Language learning, AI, game dev and more
 
 ### Skills
 
